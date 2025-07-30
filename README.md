@@ -5,8 +5,6 @@ Managing hotel operations manually can be time-consuming, error-prone, and ineff
 
 This system is implemented using **C++** and showcases a practical application of all **four pillars of Object-Oriented Programming (OOP)**
 
----
-
 ## Functionalities
 
 - 🛏️ **Room Booking**
@@ -30,14 +28,12 @@ This system is implemented using **C++** and showcases a practical application o
   - Apply taxes and discounts
 
 - ❌ **Booking & Order Cancellation**
-  - Cancel room bookings (with optional penalty)
+  - Cancel room bookings (with cancellation fee)
   - Cancel food orders before bill is generated
 
 - 🧍 **Customer Record Management**
   - View all customer details
   - Search bookings by room number or name
-
----
 
 ## 🧠 OOP Concepts Used
 
@@ -48,14 +44,10 @@ This system is implemented using **C++** and showcases a practical application o
 | **Inheritance**   | `Customer` inherits from base class `Person` |
 | **Polymorphism**  | `showDetails()` method overridden in child classes |
 
----
-
 ## 🛠️ Technologies
 
 - **Language:** C++  
 - **Libraries:** `iostream`, `iomanip`, `string`, `ctime`
-
----
 
 ## Learning Outcomes
 
@@ -65,8 +57,6 @@ This system is implemented using **C++** and showcases a practical application o
 - Build a console-based UI and use menus for interaction
 - Strengthen logic-building and problem-solving skills using C++
 
----
-
 ## Author
 
 *Jaweria Waheed*
@@ -74,8 +64,6 @@ This system is implemented using **C++** and showcases a practical application o
 - Student – BS Computer Science, Bahria University  
 - [LinkedIn Profile](https://www.linkedin.com/in/jaweriasatti)  
 - [Email](mailto:jaweriasatti19@gmail.com)
-
----
 
 ##  License
 
