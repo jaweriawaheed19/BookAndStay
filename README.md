@@ -59,7 +59,7 @@ This system is implemented using **C++** and showcases a practical application o
 
 ## Author
 
-*Jaweria Waheed*
+*Jaweria Waheed Satti*
 
 - Student – BS Computer Science, Bahria University  
 - [LinkedIn Profile](https://www.linkedin.com/in/jaweriasatti)  
