@@ -62,7 +62,7 @@ This system is implemented using **C++** and showcases a practical application o
 *Jaweria Waheed Satti*
 
 - Student – BS Computer Science  
-- [LinkedIn](https://www.linkedin.com/in/jaweriasatti)  
+- [LinkedIn](https://www.linkedin.com/in/jaweriasatti19)  
 - [Email](mailto:jaweriasatti19@gmail.com)
 
 ##  License
